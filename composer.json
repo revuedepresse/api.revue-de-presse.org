@@ -41,7 +41,7 @@
         "oro/doctrine-extensions": "^2.0",
         "predis/predis": "^1.1",
         "ramsey/uuid-doctrine": "^1.8",
-        "scienta/doctrine-json-functions": "^4.1",
+        "scienta/doctrine-json-functions": "^6.3",
         "symfony/console": "^5.4",
         "symfony/dotenv": "^5.4",
         "symfony/event-dispatcher": "^5.4",
