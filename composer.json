@@ -39,7 +39,7 @@
         "ocramius/package-versions": "^1.9",
         "ocramius/proxy-manager": "^2.14",
         "oro/doctrine-extensions": "^2.0",
-        "predis/predis": "^1.1",
+        "predis/predis": "^2.3",
         "ramsey/uuid-doctrine": "^1.8",
         "scienta/doctrine-json-functions": "^4.1",
         "symfony/console": "^5.4",
