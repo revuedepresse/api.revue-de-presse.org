@@ -41,7 +41,6 @@ See [COPYING](./COPYING) to see the full text.
 We're grateful towards all amazing contributors involved in the following  
 communities, organizations and projects (in lexicographic order):
 
-- [Blackfire](https://blackfire.io)
 - [Composer](http://getcomposer.org/)
 - [Debian](https://www.debian.org/)
 - [Docker](docker.com)
@@ -54,5 +53,4 @@ communities, organizations and projects (in lexicographic order):
 
 ### Some of their logos
 
-[![Blackfire](../http-api/doc/images/blackfire-io.png?raw=true)](https://blackfire.io)  
 [![JetBrains](../http-api/doc/images/jetbrains-logo.png?raw=true)](https://jb.gg/OpenSourceSupport)
