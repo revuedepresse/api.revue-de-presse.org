@@ -35,7 +35,7 @@
         "elvanto/litemoji": "^4.3",
         "guzzlehttp/guzzle": "^7.4",
         "jolicode/jolitypo": "^1.4",
-        "kreait/firebase-bundle": "^4.0",
+        "kreait/firebase-bundle": "^5.5",
         "ocramius/package-versions": "^1.9",
         "ocramius/proxy-manager": "^2.14",
         "oro/doctrine-extensions": "^2.0",
